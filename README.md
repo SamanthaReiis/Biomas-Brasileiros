@@ -8,4 +8,4 @@
  - Composer_Project_ QGIS: Os projetos no QGIS
  
 
-![Biomas] (https://github.com/SamanthaReiis/Biomas-Brasileiros/blob/master/Imagens/Mapa_biomas%20brasileiros.png)
+<img src="https://github.com/SamanthaReiis/Biomas-Brasileiros/blob/master/Mapa_biomas%20brasileiros.png" width = "400" height="600">
